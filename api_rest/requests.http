@@ -1,0 +1,22 @@
+POST http://localhost:3000/data HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "Naruto",
+    "author": "Epaaaa",
+    "publication_year": 2000
+}
+
+
+################################3
+PUT http://localhost:3000/data/3 HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "Naruto Updated",
+    "author": "Updated Epaaaa",
+    "publication_year": 2005
+}
+
+#############################################3333
+DELETE http://localhost:3000/data/8 HTTP/1.1

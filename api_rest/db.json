@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "Kuroko no basketball",
+            "author": "Kazuo Ishiguro",
+            "publication_year": "1975"
+        },
+        {
+            "id": 2,
+            "name": "Tokyo",
+            "author": "Yasuhiro Oda",
+            "publication_year": "1953"
+        },
+        {
+            "id": 3,
+            "name": "Juan",
+            "author": "dwada",
+            "publication": "213213"
+        },
+        {
+            "id": 4,
+            "name": "JuanSe",
+            "author": "sfsfbui",
+            "publication": "3424"
+        }
+    ]
+}
